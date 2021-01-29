@@ -2,11 +2,12 @@
 import json
 import socket
 import re
-from collections import defaultdict
 import os 
+
 import urllib.request
 import urllib.parse 
 import urllib.error
+from collections import defaultdict
 
 lists = []
 CP = []
